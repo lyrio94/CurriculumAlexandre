@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CurriculumAlexandre</string>
+    <string name="curriculo">Curriculo</string>
+    <string name="name">Alexandre Lyrio Vilela</string>
+    <string name="linkedin_link">https://www.linkedin.com/in/alexandrevilela94/</string>
+    <string name="link_github">https://github.com/lyrio94?tab=repositories</string>
+    <string name="email">Alexandrelyrio94@hotmail.com</string>
+    <string name="education">Educação</string>
+    <string name="experience">Experiência</string>
+    <string name="knowlegde">Conhecimentos</string>
+    <string name="title_activity_educacao">Educacao</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_experiencia">Experiencia</string>
+    <string name="title_activity_conhecimentos">Conhecimentos</string>
+</resources>
